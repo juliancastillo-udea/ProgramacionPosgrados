@@ -3,23 +3,23 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="UdeA" height="150px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
+                <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
             </td>
             <td>
-                <h2><b>Programación y Algoritmia Para Posgrados</b></h1>
+                <h2><b>Programación y Algoritmia Para Posgrados</b></h2>
             </td>
             <td rowspan="3">
-                <img alt="II" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
+                <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
             </td>
         </tr>
         <tr>
             <td>
-                <h2><b>Clase 01 - Introducción a los Algoritmos</b></h1>
+                <h2><b>Clase 01 - Introducción a los Algoritmos</b></h2>
             </td>
         </tr>
         <tr>
             <td>
-                <img align="center" alt="I&S" height="100px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" hspace="10px" vspace="0px">
+                <img align="center" alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" hspace="10px" vspace="0px">
             </td>
         </tr>
     </thead>
@@ -29,10 +29,10 @@
 
 <hr size=10 noshade color="green">
 <p>
-<img alt="CC" height="70px" src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" align="left" hspace="0px" vspace="0px">
-<img alt="Attribution" height="70px" src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" align="left" hspace="0px" vspace="0px">
-<img alt="NC" height="70px" src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" align="left" hspace="0px" vspace="0px">
-<img alt="SA" height="70px" src="https://creativecommons.org//wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-logo" align="left" hspace="0px" vspace="0px">
+<img alt="CC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png" align="left" hspace="0px" vspace="0px">
+<img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png" align="left" hspace="0px" vspace="0px">
+<img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png" align="left" hspace="0px" vspace="0px">
+<img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png" align="left" hspace="0px" vspace="0px">
 </p>
 
 <div align="right">
