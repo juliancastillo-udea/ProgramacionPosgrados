@@ -6,7 +6,7 @@
                 <img alt="UdeA" height="150px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
             </td>
             <td>
-                <h1><b>Programación y Algoritmia Para Posgrados</b></h1>
+                <h2><b>Programación y Algoritmia Para Posgrados</b></h1>
             </td>
             <td rowspan="3">
                 <img alt="II" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td>
-                <h1><b>Clase 01 - Introducción a los Algoritmos</b></h1>
+                <h2><b>Clase 01 - Introducción a los Algoritmos</b></h1>
             </td>
         </tr>
         <tr>
