@@ -14,11 +14,6 @@
         </tr>
         <tr>
             <td>
-                <h2><b>Clase 01 - Introducción a los Algoritmos</b></h2>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <img align="center" alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" hspace="10px" vspace="0px">
             </td>
         </tr>
