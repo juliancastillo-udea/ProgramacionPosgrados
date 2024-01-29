@@ -48,8 +48,6 @@
 
 # **Programación y Algoritmia Para Posgrados**
 
-# **Programación y Algoritmia Para Posgrados**
-
 # **Propósito del curso**
 Este curso de programación ha sido diseñado específicamente para estudiantes de posgrado que desean adquirir habilidades sólidas en programación, independientemente de su formación académica previa. Reconociendo que los estudiantes de maestría y doctorado necesitan habilidades de programación en sus investigaciones y proyectos, este curso brinda unas bases sólidas en algoritmia, considerando tanto a aquellos sin experiencia previa en programación como a aquellos con formación en ingeniería que desean reforzar y ampliar sus habilidades.
 
