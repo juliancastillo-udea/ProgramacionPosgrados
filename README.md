@@ -6,10 +6,15 @@
                 <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
             </td>
             <td>
-                <h2><b>Programación y Algoritmia Para Posgrados</b></h2>
+                <h1><b>Programación y Algoritmia Para Posgrados</b></h1>
             </td>
             <td rowspan="3">
                 <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1><b>Lenguaje del curso: Python</b></h1>
             </td>
         </tr>
         <tr>
@@ -40,6 +45,8 @@
 <br>
 
 **El presente curso hace parte del grupo de investigación [Ingeniería&Sociedad](https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/grupos-investigacion/ingenieria-tecnologia/ingenieria-sociedad/integrantes/!ut/p/z1/jZDLbsIwEEW_hS_w2JMHWbqOE0wcxw6mUG9QVigSBBaI729UISRCS5ndSOee0VwSyJaEobv2--7Sn4buMO5fIdkZF0vKBOjS2QIcb_lKe28EMrL5AeaZYJRHoKGiMXAnrfGNsPmSkfBOHv4YDu_lXwDhtX5DwuMJKNrxA13VyNoEvU6nQJn6DLi0kEboDP-kU6ABNxpqExUfpeIVi2_AvaQmb0YgyeXCU0RB2ZNBoQSXmdhiqViU4tTwS83_PXo-rtdb6FWv9rNv4u7n-A!!/?1dmy&urile=wcm%3apath%3a%2FPortalUdeA%2FasPortalUdeA%2FasHomeUdeA%2FInvestigaci%2521c3%2521b3n%2FGrupos%2Bde%2Binvestigaci%2521c3%2521b3n%2FIngenier%2521c3%2521ada%2By%2Btecnolog%2521c3%2521ada%2FIngenier%2521c3%2521ada%2By%2Bsociedad) de la Ingeniería Industrial de la Universidad de Antioquia.**
+
+# **Programación y Algoritmia Para Posgrados**
 
 # **Programación y Algoritmia Para Posgrados**
 
